@@ -1,10 +1,15 @@
 header{
     #navbar background-color #FFF7F1
 }
-
+.nav-links{
+    color: black;
+}
+#navbar {
+    a:hover 
+}
 h1 {
     font-family: "Montserrat";
-    font-size: 2.orem;
+    font-size: 3.orem;
     color: black;
 }
 body {
