@@ -11,6 +11,10 @@ header{
 }
 .nav-link:hover { color: #E5A490;
 }
+a {color: black;
+ }
+ a:hover {color: #E5A490;
+}
 h1 {
     font-family: "Montserrat";
     font-size: 3.orem;
