@@ -1,11 +1,15 @@
 header{
     #navbar background-color #FFF7F1
 }
-.nav-links{
+.nav-link{
     color: black;
 }
-#navbar {
-    a:hover 
+.navbar-brand{
+    color: black;
+}
+.navbar-brand:hover { color: #E5A490;
+}
+.nav-link:hover { color: #E5A490;
 }
 h1 {
     font-family: "Montserrat";
