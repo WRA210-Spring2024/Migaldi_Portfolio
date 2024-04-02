@@ -1,5 +1,5 @@
 header{
-    #navbar background-color #FFF7F1
+    background-color:white
 }
 .nav-link{
     color: black;
@@ -23,4 +23,7 @@ h1 {
 body {
     font-family:"Lora"; 
     background-color: #FFF7F1 ; 
+}
+footer{
+     background-color:white
 }
